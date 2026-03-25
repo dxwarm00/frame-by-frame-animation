@@ -88,6 +88,9 @@ Se realizaron ajustes en continuidad, suavidad y expresividad del movimiento.
   <li>Enfoque en expresión corporal</li>
 </ul>
 
+![AnimationAutumn](https://github.com/user-attachments/assets/d6454d16-327f-41a1-8393-629815c471be)
+
+
 <h3>Animación 2: Secuencia rítmica</h3>
 <ul>
   <li>Movimiento dinámico y energético</li>
@@ -95,29 +98,20 @@ Se realizaron ajustes en continuidad, suavidad y expresividad del movimiento.
   <li>Exploración del ritmo y repetición</li>
 </ul>
 
+![AnimationDance](https://github.com/user-attachments/assets/9824c813-a866-48a3-b279-3b2b517382eb)
+
 <hr>
 
 <h2>🖼️ Guía de poses</h2>
 
 <p align="center">
-<img src="docs/guia_de_poses.png" width="500">
+<img width="2048" height="2074" alt="dance" src="https://github.com/user-attachments/assets/6c6c943e-1ba9-4518-ab94-412769e3fd3a" width="500">
+
+<p align="center">
+<img width="2528" height="1684" alt="animation2" src="https://github.com/user-attachments/assets/4ab61a36-09c0-46d6-b210-d731ca2f26cb" width="500">
+ 
+
 </p>
-
-<hr>
-
-<h2>📁 Estructura del repositorio</h2>
-
-<pre>
-assets/
- ├── references/
- ├── renders/
- └── blender_files/
-
-docs/
- └── guia_de_poses.png
-</pre>
-
-<hr>
 
 <h2>⚙️ Software utilizado</h2>
 <ul>
@@ -138,5 +132,5 @@ Asimismo, se evidenció que el uso de referencias visuales y herramientas de apo
 <h2 align="center">✨ Autor</h2>
 
 <p align="center">
-Dana Rivera
+Rivera Flores Dana Valeria
 </p>
